@@ -1,5 +1,5 @@
-Smart Lender 
-# Smart Lender – Loan Approval Prediction
+
+# Smart Lender 
 
 ## Project Overview
 
@@ -214,6 +214,6 @@ Start the load test by specifying the number of users and spawn rate.
 
 **Gollapalli Nimruja Lakshmi Siva Ganga**
 
-**Project:** Smart Lender – Loan Approval Prediction
+**Project:** Smart Lender 
 
 ---
